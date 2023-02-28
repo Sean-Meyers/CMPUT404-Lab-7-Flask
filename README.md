@@ -1,5 +1,8 @@
 # CMPUT404-Lab-7-Flask
 
+**Question 0:** What is the URL of your python flask_restfull code on github???
+- https://github.com/Sean-Meyers/CMPUT404-Lab-7-Flask/blob/main/hello.py
+
 **Question 1:** How are Flask and Django different? What does Django provide for you that Flask does not?
 - Django is bigger, heavier, more complete web framework... Better for big web apps/pages. Flask is lighter weight, simpler, micro-framework better for simpler things idk.
 
